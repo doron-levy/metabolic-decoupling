@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Figure code for: A Non-Local Model of Growth-Induced Metabolic Decoupling in Tumors"
+message: "If you use this software, please cite both the software and the paper it accompanies."
+type: software
+license: MIT
+authors:
+  - family-names: Levy
+    given-names: Doron
+    affiliation: "Department of Mathematics, University of Maryland, College Park, MD 20742, USA"
+    email: dlevy@umd.edu
+preferred-citation:
+  type: article
+  title: "A Non-Local Model of Growth-Induced Metabolic Decoupling in Tumors"
+  authors:
+    - family-names: Levy
+      given-names: Doron
+      affiliation: "Department of Mathematics, University of Maryland, College Park, MD 20742, USA"
+  journal: "Journal of the Royal Society Interface"
+  year: 2026
